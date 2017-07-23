@@ -1,12 +1,12 @@
 {
-    "name": "chescos/steam-mobile-auth",
+    "name": "chescos/steam-auth",
     "description": "This package can perform a login to the Steam network",
     "keywords": ["steam", "steam mobile auth"],
     "type": "library",
     "license": "MIT",
     "require": {
         "php": ">=5.6.4",
-        "chescos/steam-api": "1.1.0",
+        "chescos/steam-api": "~0.1",
         "phpseclib/phpseclib": "2.0.6"
     },
     "autoload": {
