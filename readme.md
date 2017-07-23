@@ -1,3 +1,3 @@
-# PHP Steam API
+# PHP Steam Auth
 
 Work in progress.
